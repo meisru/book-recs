@@ -3,6 +3,8 @@
 
 Vite + React app with an Express backend that calls Claude AI model to recommend books based on preferred genres and previously liked books.
 
+<img src="./src/assets/screenshot.png" width="500" height="500" alt="Screenshot of the app" />
+
 ## Quickstart
 
 1. Create a `.env` file at the project root and set your API key:

@@ -15,7 +15,7 @@ CLAUDE_MODEL=...
 PORT=8787
 ```
     
-    Default model is: `claude-3-5-haiku-20241022`.
+Default model is: `claude-3-5-haiku-20241022`.
 
 2. Install dependencies:
 
